@@ -1,2 +1,2 @@
 # op.backend
-Acces and manage the Open PaaS data backend
+Access and manage the Open PaaS data backend
